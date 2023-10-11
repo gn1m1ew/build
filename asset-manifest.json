@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e975a99.css",
+    "main.js": "/static/js/main.ce04afab.js",
+    "static/js/787.122c2ab8.chunk.js": "/static/js/787.122c2ab8.chunk.js",
+    "static/media/Tanguay-Lab-logo-transparent-circle-web.jpg": "/static/media/Tanguay-Lab-logo-transparent-circle-web.ba038d1ccc5eea0e9546.jpg",
+    "index.html": "/index.html",
+    "main.2e975a99.css.map": "/static/css/main.2e975a99.css.map",
+    "main.ce04afab.js.map": "/static/js/main.ce04afab.js.map",
+    "787.122c2ab8.chunk.js.map": "/static/js/787.122c2ab8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e975a99.css",
+    "static/js/main.ce04afab.js"
+  ]
+}
